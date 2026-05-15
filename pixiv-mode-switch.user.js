@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         pixivのクソuiを正常の戻す
+// @name         pixivのクソuiを正常のに戻す
 // @namespace    https://pixiv.net/
 // @version      1.3
 // @match        https://www.pixiv.net/*
